@@ -1,4 +1,7 @@
-## Hi there 👋
+- Junior Software Engineer
+- Advocate for continuous learning
+- Passionate about using my skills to make a meaningful impact
+- Black belt in karate | avid reader | linguistics enthusiast
 
 <!--
 **marorcas/marorcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
