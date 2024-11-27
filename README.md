@@ -6,7 +6,8 @@
 - I'm very passionate about using my skills to make a meaningful impact to those around me
 - I'm also a... black belt in karate | linguistics enthusiast | avid reader
 
-🌱 I’m currently working on a [full-stack job resourcing application](https://github.com/marorcas/csharp-resourcing) and a [Next.js version of my portfolio](https://github.com/marorcas/nextjs-portfolio)
+🔭 I’m currently working on a [full-stack job resourcing application](https://github.com/marorcas/csharp-resourcing) and a [Next.js version of my portfolio](https://github.com/marorcas/nextjs-portfolio)
+🌱 I'm currently learning Microsoft Azure Fundamentals to deepen my knowledge of cloud technologies
 
 <!--
 **marorcas/marorcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
